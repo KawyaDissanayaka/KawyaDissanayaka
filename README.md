@@ -1,8 +1,9 @@
-<a href="https://github.com/kavindidissanayaka">
-  <img src="https://orca.security/wp-content/uploads/2024/09/orca-typosquatting-in-github-actions-blog.jpg?w=1044" alt="Banner" width="100%"/>
+<a href="https://github.com/kawyadissanayaka">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*2p-0PUq8F1YV4jNR.png" alt="Banner" width="100%"/>
 </a>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=Hi+I'm+Kawya+Dissanayaka;Computer+Science+Undergraduate;Python+%7C+Java+%7C+SQL+%7C+C++;Web+Development+%7C+Database+Design;AI+%7C+Machine+Learning+%7C+UI%2FUX;Passionate+About+Tech+%26+Innovation;Aspiring+Software+Engineer+%26+AI+Developer;Let's+Build+Something+Amazing!" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Hi+I'm+Kawya+Dissanayaka;Computer+Science+Undergraduate;Aspiring+Software+Engineer+💻;Exploring+AI+%26+UI+Design;Let's+Code+Something+Magical!" alt="Typing Intro"/>
 </h1>
 
 
@@ -51,7 +52,7 @@
  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40" height="40"/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="40" height="40"/>
 </p>
 
 
@@ -96,6 +97,10 @@
   <a href="mailto:kawyadissanayaka95@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail Badge" width="40" height="40"/>  
   </a>
+</a>
+  <a href="https://linkedin.com/in/kawyadissanayaka-5a0ba1322">
+   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn Badge" width="40" height="40"/>
+  </a>  
 </p>
 
 
