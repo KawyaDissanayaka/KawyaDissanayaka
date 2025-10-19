@@ -18,14 +18,12 @@
 ### 🚀 Current Projects  
 - 🧠 **Medical Chatbot** – AI-based symptom checker and consultation support using Flask and Gemini API  
 - 🛒 **Shopping Center Management System** – Full platform to manage products, categories, orders, customers, and stock  
-- 📦 **Order Processing System** – Inventory and order tracking system for suppliers and customers  
-- 💼 **HRM System** – Web app for managing employee data, attendance, leave, and payroll (Python, Flask, MySQL)
 
 ---
 
 ### 🌱 Currently Learning  
-- 🔧 **Backend**: Flask, API Integration, Database Design  
-- 🎨 **Frontend**: HTML, CSS, UI/UX Design Principles  
+- 🔧 **Backend**: Flask, API Integration, Spring Boot, Database Design  
+- 🎨 **Frontend**: HTML, CSS, UI/UX Design Principles, react
 - 🗃 **Data**: SQL, Data Handling, User Feedback Analysis
 
 ---
