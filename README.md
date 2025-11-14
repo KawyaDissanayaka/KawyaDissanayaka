@@ -18,7 +18,7 @@
 ### 🚀 Current Projects  
 - 🧠 **Medical Chatbot** – AI-based symptom checker and consultation support using Flask and Gemini API  
 - 🛒 **Shopping Center Management System** – Full platform to manage products, categories, orders, customers, and stock  
-
+- 🧺 **Laundry Pickup & Delivery Management System** - Full-stack system for laundry order booking, tracking, and delivery scheduling.
 ---
 
 ### 🌱 Currently Learning  
