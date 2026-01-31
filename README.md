@@ -70,7 +70,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=compact&theme=rose_pine" width="48%" />
 </p>
 
