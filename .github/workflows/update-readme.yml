@@ -1,0 +1,55 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day to refresh stats
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update README timestamp
+        run: |
+          # Get current date
+          CURRENT_DATE=$(date +"%Y-%m-%d")
+          CURRENT_YEAR=$(date +"%Y")
+
+          # Update the README with current year in stats section
+          sed -i "s/## 📊 GitHub Stats ([0-9][0-9][0-9][0-9])/## 📊 GitHub Stats ($CURRENT_YEAR)/" README.md
+
+          # Add comment with last update time if it doesn't exist
+          if ! grep -q "Last updated:" README.md; then
+            echo "" >> README.md
+            echo "<!-- Last updated: $CURRENT_DATE -->" >> README.md
+          else
+            sed -i "s/<!-- Last updated: .* -->/<!-- Last updated: $CURRENT_DATE -->/" README.md
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config --local \
+            user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update README stats for $(date +%Y-%m-%d)"
+            git push
+          fi

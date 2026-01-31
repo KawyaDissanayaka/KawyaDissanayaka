@@ -66,12 +66,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (2026)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=compact&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=rose_pine&cache_seconds=86400&date_format=j%20M%5B%20Y%5D" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=compact&theme=rose_pine&cache_seconds=86400" width="48%" />
 </p>
 
 ---
@@ -116,3 +116,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&width=600&lines=Thank+you+for+visiting!;Let's+create+magic+together!+💫" alt="Thanks"/>
 </p>
+
+<!-- Last updated: 2026-01-31 -->
