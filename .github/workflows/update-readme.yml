@@ -29,16 +29,14 @@ jobs:
           CURRENT_YEAR=$(date +"%Y")
 
           # Update the README with current year in stats section
-          sed -i "s/## 📊 GitHub Stats ([0-9]\{4\})/## 📊 GitHub Stats ($CURRENT_YEAR)/" README.md
+          sed -i "s/## 📊 GitHub Stats ([0-9][0-9][0-9][0-9])/## 📊 GitHub Stats ($CURRENT_YEAR)/" README.md
 
           # Add comment with last update time if it doesn't exist
           if ! grep -q "Last updated:" README.md; then
             echo "" >> README.md
             echo "<!-- Last updated: $CURRENT_DATE -->" >> README.md
           else
-            sed -i \
-              "s/<!-- Last updated: .* -->/<!-- Last updated: $CURRENT_DATE -->/" \
-              README.md
+            sed -i "s/<!-- Last updated: .* -->/<!-- Last updated: $CURRENT_DATE -->/" README.md
           fi
 
       - name: Commit and push if changed
