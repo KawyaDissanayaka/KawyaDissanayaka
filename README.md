@@ -96,6 +96,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
+  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40" height="40"/>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
 </p>
 
 ---
