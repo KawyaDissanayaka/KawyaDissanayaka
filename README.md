@@ -190,7 +190,6 @@
       <p align="center">
         <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>frontend→</b></a>
         <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-backend"><b>backend →</b></a>
-
       </p>
     </td>
     <td width="50%" valign="top">
