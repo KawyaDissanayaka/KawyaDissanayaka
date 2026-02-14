@@ -8,8 +8,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=00eeff&center=true&vCenter=true&width=700&lines=Hi+I'm+Kawya+Dissanayaka;Full-stack+Developer+💻;Computer+Science+Undergraduate;Next.js+%26+Node.js+Enthusiast;Let's+Code+Something+Magical!" alt="Typing Intro"/>
 </h1>
 
+<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KawyaDissanayaka&theme=tokyonight&no-frame=false&margin-w=4&column=4" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=KawyaDissanayaka&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KawyaDissanayaka&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -96,43 +102,113 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
-  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40" height="40"/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40" title="IntelliJ IDEA"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
 </p>
 
 ---
 
-## 📊 2026 Activity & Stats
+## 📊 GitHub Statistics & Activity
 
+<!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=compact&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KawyaDissanayaka&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
+
+<!-- Detailed Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaDissanayaka&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="100%"/>
+</p>
+
+<!-- Additional Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawyaDissanayaka&theme=tokyonight" width="100%" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaDissanayaka&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawyaDissanayaka&theme=tokyonight" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KawyaDissanayaka&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KawyaDissanayaka&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
 </p>
 
-## 🐍 Contribution Snake
+---
+
+## 🔥 Contribution Streak & Metrics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=KawyaDissanayaka&theme=tokyonight&hide_border=true" alt="Contributor Stats" width="60%"/>
 </p>
+
+<!-- 3D Contribution Calendar -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/00eeff/KawyaDissanayaka" alt="GitHub Contribution Chart" width="100%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawyaDissanayaka&theme=tokyonight" alt="Stats" />
+</p>
+
+---
+
+## 📈 Commit History & Weekly Development
+
+<!-- Weekly Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KawyaDissanayaka&theme=tokyonight&hide_border=true" alt="Wakatime Stats" width="48%"/>
+</p>
+
+---
+
+## 💼 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
 ## 🔗 Connect with Me
+
 <p align="center">
-  <a href="mailto:kawyadissanayaka95@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/></a>
-  <a href="http://linkedin.com/in/kawya-dissanayaka-5a0ba1322"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40"/></a>
-  <a href="https://www.facebook.com/share/1DMz2ukULF/?mibextid=wwXIfr"><img src="https://img.icons8.com/color/48/facebook-new.png" width="40" height="40"/></a>
-  <a href="https://github.com/KawyaDissanayaka"><img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/></a>
+  <a href="mailto:kawyadissanayaka95@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="http://linkedin.com/in/kawya-dissanayaka-5a0ba1322">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/share/1DMz2ukULF/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/KawyaDissanayaka">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+✨;Let's+create+magic+together!+💫;Open+to+collaboration+opportunities!+🚀" alt="Thanks"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&width=600&lines=Thank+you+for+visiting!;Let's+create+magic+together!+💫" alt="Thanks"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
 
-<p align="center"><i>“Don’t be afraid to sparkle a little brighter.”</i> ✨🌸</p>
+<p align="center"><i>"Don't be afraid to sparkle a little brighter."</i> ✨🌸</p>
