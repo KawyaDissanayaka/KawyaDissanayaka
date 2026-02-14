@@ -105,34 +105,6 @@
 
 ---
 
-## 🏅 GitHub Achievements & Medals
-
-<!-- Achievement Badges Row 1 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Quickdraw-⚡%20Lightning%20Fast-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw"/>
-  <img src="https://img.shields.io/badge/Pull%20Shark-🦈%20PR%20Master-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/>
-  <img src="https://img.shields.io/badge/YOLO-🎯%20Risk%20Taker-orange?style=for-the-badge&logo=github&logoColor=white" alt="YOLO"/>
-  <img src="https://img.shields.io/badge/Galaxy%20Brain-🧠%20Genius-purple?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain"/>
-</p>
-
-<!-- Achievement Badges Row 2 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-👥%20Team%20Player-green?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire"/>
-  <img src="https://img.shields.io/badge/Starstruck-⭐%20Popular-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Starstruck"/>
-  <img src="https://img.shields.io/badge/Public%20Sponsor-💖%20Supporter-pink?style=for-the-badge&logo=github&logoColor=white" alt="Public Sponsor"/>
-  <img src="https://img.shields.io/badge/Arctic%20Vault-🏔️%20Archived-cyan?style=for-the-badge&logo=github&logoColor=white" alt="Arctic Code Vault"/>
-</p>
-
-<!-- Custom Metrics Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-5000+-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Pull%20Requests-200+-blue?style=for-the-badge&logo=github&logoColor=white" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Code%20Reviews-150+-orange?style=for-the-badge&logo=github&logoColor=white" alt="Reviews"/>
-  <img src="https://img.shields.io/badge/Issues%20Solved-100+-red?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
-  <img src="https://img.shields.io/badge/Repositories-30+-purple?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -209,6 +181,12 @@
 </table>
 
 ---
+### Project Achievements
+<p align="center">
+  
+<img src="https://img.shields.io/badge/🧺%20Laundry%20Management-Developed-orange?style=for-the-badge" alt="Laundry System"/>
+</p>
+
 
 ## 🧰 Technology Stack & Tools
 
