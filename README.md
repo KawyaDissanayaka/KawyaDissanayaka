@@ -183,8 +183,8 @@
 ---
 ### Project Achievements
 <p align="center">
-  
-<img src="https://img.shields.io/badge/🧺%20Laundry%20Management-Developed-orange?style=for-the-badge" alt="Laundry System"/>
+  <img src="https://img.shields.io/badge/🥇%20Laundry%20Frontend-React%20Excellence-orange?style=for-the-badge&logo=react" alt="Laundry Frontend Medal"/>
+  <img src="https://img.shields.io/badge/🥇%20Laundry%20Backend-Spring%20Boot%20Mastery-purple?style=for-the-badge&logo=spring" alt="Laundry Backend Medal"/>
 </p>
 
 
