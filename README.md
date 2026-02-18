@@ -19,7 +19,6 @@
 
 ## 🌷 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 **Computer Science Undergraduate** at NSBM Green University  
 💡 **Full-stack Developer** passionate about creating impactful applications  
@@ -30,81 +29,54 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
+
+
+## 🎖️ GitHub Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KawyaDissanayaka&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=7" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KawyaDissanayaka&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,PullRequest,Issues,Followers,Stars,Reviews" alt="GitHub Achievements" width="100%"/>
+</p>
+
+<div align="center">
+
+---
+
+## 🥇 Project Achievements & Medals
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_Street_Dog_Care-Full_Stack_Excellence-4CAF50?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Street Dog Care Medal"/>
+  <img src="https://img.shields.io/badge/🥇_Medical_ChatBot-AI_Integration_Master-9C27B0?style=for-the-badge&logo=python&logoColor=white" alt="Medical ChatBot Medal"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_Laundry_Frontend-React_Excellence-FF9800?style=for-the-badge&logo=react&logoColor=white" alt="Laundry Frontend Medal"/>
+  <img src="https://img.shields.io/badge/🥇_Laundry_Backend-Spring_Boot_Mastery-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Laundry Backend Medal"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥈_School_Portal-Database_Integration-2196F3?style=for-the-badge&logo=mysql&logoColor=white" alt="School Portal Medal"/>
+  <img src="https://img.shields.io/badge/🏆_Total_Projects-4+_Completed-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects"/>
 </p>
 
 ---
 
-## 📊 Complete GitHub Statistics & History
+## 📊 GitHub Statistics
 
 ### 📈 Overall Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
-### 💻 Language Usage & Distribution
+
+
+### 📅 Contribution History
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=repo1,repo2" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Languages Donut" />
-</p>
-
-### 📅 Detailed Contribution History
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaDissanayaka&theme=tokyo-night&hide_border=true&custom_title=365%20Days%20Contribution%20Graph&area=true&height=300" alt="Contribution Graph" width="100%"/>
-</p>
-
-### 🗓️ Commit History Timeline
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00eeff/KawyaDissanayaka" alt="GitHub Contribution Chart" width="100%"/>
-</p>
-
-### 📊 Profile Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawyaDissanayaka&theme=tokyonight" width="100%" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawyaDissanayaka&theme=tokyonight" width="24%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KawyaDissanayaka&theme=tokyonight" width="24%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawyaDissanayaka&theme=tokyonight" width="24%" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KawyaDissanayaka&theme=tokyonight&utcOffset=5.5" width="24%" alt="Productive Time"/>
-</p>
-
-### 🔥 Contribution Metrics
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KawyaDissanayaka&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" width="60%"/>
-</p>
-
-### 📉 Commit Activity Breakdown
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=27" width="49%" alt="Detailed Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaDissanayaka&layout=pie&theme=tokyonight&hide_border=true" width="49%" alt="Language Pie Chart" />
-</p>
-
-### 🌟 Repository Statistics
-
-<p align="center">
-  <a href="https://github.com/KawyaDissanayaka/Street-Dog-Care-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KawyaDissanayaka&repo=Street-Dog-Care-Management-System&theme=tokyonight&hide_border=true" alt="Street Dog Care" width="49%"/>
-  </a>
-  <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KawyaDissanayaka&repo=Medical_ChatBot&theme=tokyonight&hide_border=true" alt="Medical ChatBot" width="49%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaDissanayaka&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
-
 
 ## 🐍 Contribution Snake
 
@@ -131,6 +103,10 @@
         Modern management system for animal shelters built with <b>Next.js, Node.js, and MongoDB</b>.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/badge/🥇-Excellence_Award-gold?style=flat-square" alt="Excellence"/>
+        <img src="https://img.shields.io/badge/⭐-Featured-orange?style=flat-square" alt="Featured"/>
+      </p>
+      <p align="center">
         <a href="https://github.com/KawyaDissanayaka/Street-Dog-Care-Management-System"><b>View Repository →</b></a>
       </p>
     </td>
@@ -143,6 +119,10 @@
       </p>
       <p align="center">
         Python-based symptom analysis assistant utilizing <b>RESTful APIs</b> and Gemini AI.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🥇-AI_Innovation-purple?style=flat-square" alt="AI Innovation"/>
+        <img src="https://img.shields.io/badge/⭐-Featured-orange?style=flat-square" alt="Featured"/>
       </p>
       <p align="center">
         <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot"><b>View Repository →</b></a>
@@ -160,8 +140,12 @@
         Full-stack pickup and delivery system built using <b>Spring Boot</b> and <b>React</b>.
       </p>
       <p align="center">
-        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>frontend→</b></a>
-        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-backend"><b>backend →</b></a>
+        <img src="https://img.shields.io/badge/🥇-Frontend_Excellence-orange?style=flat-square" alt="Frontend"/>
+        <img src="https://img.shields.io/badge/🥇-Backend_Mastery-green?style=flat-square" alt="Backend"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>Frontend →</b></a>
+        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-backend"><b>Backend →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -174,6 +158,10 @@
         Web platform integrated with <b>SQL database</b> for school management.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/badge/🥈-Database_Integration-blue?style=flat-square" alt="Database"/>
+        <img src="https://img.shields.io/badge/✅-Completed-green?style=flat-square" alt="Completed"/>
+      </p>
+      <p align="center">
         <a href="https://github.com/Kavindi52/Skills-International-School-webpage"><b>View Repository →</b></a>
       </p>
     </td>
@@ -181,14 +169,40 @@
 </table>
 
 ---
-### Project Achievements
+
+---
+
+## 📌 Advanced Commit Insights
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇%20Laundry%20Frontend-React%20Excellence-orange?style=for-the-badge&logo=react" alt="Laundry Frontend Medal"/>
-  <img src="https://img.shields.io/badge/🥇%20Laundry%20Backend-Spring%20Boot%20Mastery-purple?style=for-the-badge&logo=spring" alt="Laundry Backend Medal"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawyaDissanayaka&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawyaDissanayaka&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KawyaDissanayaka&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawyaDissanayaka&theme=tokyonight" width="32%" />
+</p>
+
+---
+
+## 🔥 Contribution Metrics
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=KawyaDissanayaka&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" width="49%" />
+</p>
+
+---
+
+## 📅 Yearly Commit Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/KawyaDissanayaka" alt="Commit Calendar" width="100%"/>
 </p>
 
 
-## 🧰 Technology Stack & Tools
+## 🧰 Technology Stack
 
 ### 💻 Languages
 
@@ -218,7 +232,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -279,14 +293,6 @@
 
 ---
 
-## 📈 Coding Activity & Time Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KawyaDissanayaka&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Wakatime Stats"/>
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -302,9 +308,6 @@
   <a href="https://github.com/KawyaDissanayaka">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/KawyaDissanayaka">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 ---
@@ -313,17 +316,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
-
-## 📊 Additional Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/Languages-8-blue?style=for-the-badge" alt="Languages"/>
-  <img src="https://img.shields.io/badge/Available%20For-Freelance-red?style=for-the-badge" alt="Freelance"/>
 </p>
 
 ---
