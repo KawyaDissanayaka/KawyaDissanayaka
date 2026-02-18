@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/KawyaDissanayaka">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kawya%20Dissanayaka&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,18,14&height=200&section=header&text=Kawya%20Dissanayaka&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
   </a>
 </p>
 
@@ -321,11 +321,11 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+amazing+things+together!+💫;Always+learning%2C+always+growing+🚀;Open+to+collaboration+opportunities!+🤝" alt="Footer Message"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,12&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29&height=120&section=footer"/>
 </p>
 
 <p align="center">
