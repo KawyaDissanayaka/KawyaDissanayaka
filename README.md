@@ -166,6 +166,45 @@
       </p>
     </td>
   </tr>
+  <tr>
+  <td width="50%" valign="top">
+    <h3 align="center">🌐 E-Commerce Web Project</h3>
+    <p align="center">
+      <a href="https://github.com/DarshanaChinthaka/web-project-EC.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanaChinthaka&repo=web-project-EC&theme=tokyonight&hide_border=true" alt="E-Commerce Project" />
+      </a>
+    </p>
+    <p align="center">
+      Full-stack E-Commerce platform with user authentication, product catalog, and shopping cart.
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/🥇-Frontend_Excellence-orange?style=flat-square" alt="Frontend"/>
+      <img src="https://img.shields.io/badge/🥈-Backend_Integration-blue?style=flat-square" alt="Backend"/>
+    </p>
+    <p align="center">
+      <a href="https://github.com/DarshanaChinthaka/web-project-EC.git"><b>View Repository →</b></a>
+    </p>
+  </td>
+  <td width="50%" valign="top">
+    <h3 align="center">💻 Kawya Portfolio</h3>
+    <p align="center">
+      <a href="https://github.com/KawyaDissanayaka/kawyaportfolio.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KawyaDissanayaka&repo=kawyaportfolio&theme=tokyonight&hide_border=true" alt="Portfolio Project" />
+      </a>
+    </p>
+    <p align="center">
+      Personal developer portfolio showcasing projects, skills, and achievements built with React & Tailwind CSS.
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/🥇-Portfolio_Design-pink?style=flat-square" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/⭐-Featured-orange?style=flat-square" alt="Featured"/>
+    </p>
+    <p align="center">
+      <a href="https://github.com/KawyaDissanayaka/kawyaportfolio.git"><b>View Repository →</b></a>
+    </p>
+  </td>
+</tr>
+
 </table>
 
 ---
