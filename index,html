@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kawya Dissanayaka | Full-stack Developer</title>
+    <meta name="description"
+        content="Portfolio of Kawya Dissanayaka - Computer Science Undergraduate & Full-stack Developer specialized in Next.js, React, and Node.js.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="bg-blob blob-1"></div>
+    <div class="bg-blob blob-2"></div>
+
+    <nav id="navbar">
+        <div class="logo">KAWYA.DEV</div>
+        <div class="nav-links">
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#education">Education</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <main>
+        <section class="hero" id="home">
+            <h1 class="reveal">Hi, I'm <span class="name">Kawya</span></h1>
+            <p class="reveal" style="animation-delay: 0.2s;">
+                Computer Science Undergraduate & Full-stack Developer passionate about building high-impact
+                applications.
+            </p>
+            <div class="cta-buttons reveal" style="animation-delay: 0.4s;">
+                <a href="#projects" class="btn btn-primary">View My Work</a>
+                <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+            </div>
+        </section>
+
+        <section id="about">
+            <h2 class="section-title">🌷 About Me</h2>
+            <div class="glass-card reveal">
+                <div class="about-grid">
+                    <div class="about-content">
+                        <ul>
+                            <li>🎓 <b>Computer Science Undergraduate</b> at NSBM Green University</li>
+                            <li>💡 <b>Full-stack Developer</b> passionate about creating impactful applications</li>
+                            <li>🚀 Building scalable solutions with <b>Next.js, Node.js, and React</b></li>
+                            <li>🌱 Currently learning <b>Cloud Technologies & DevOps</b></li>
+                            <li>💬 Ask me about <b>JavaScript, Python, Java, and Web Development</b></li>
+                            <li>⚡ Fun fact: <b>I love turning coffee into code!</b> ☕→💻</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="skills">
+            <h2 class="section-title">🧰 Technology Stack</h2>
+            <div class="grid grid-2">
+                <div class="skill-category reveal">
+                    <h3>💻 Languages</h3>
+                    <div class="skill-items">
+                        <div class="skill-item"><i class="fab fa-js" style="color:#F7DF1E"></i> JavaScript</div>
+                        <div class="skill-item"><i class="fab fa-python" style="color:#3776AB"></i> Python</div>
+                        <div class="skill-item"><i class="fab fa-java" style="color:#ED8B00"></i> Java</div>
+                        <div class="skill-item"><i class="fas fa-code" style="color:#239120"></i> C#</div>
+                        <div class="skill-item"><i class="fas fa-terminal" style="color:#00599C"></i> C++</div>
+                        <div class="skill-item"><i class="fab fa-html5" style="color:#E34F26"></i> HTML5</div>
+                        <div class="skill-item"><i class="fab fa-css3-alt" style="color:#1572B6"></i> CSS3</div>
+                    </div>
+                </div>
+                <div class="skill-category reveal">
+                    <h3>🚀 Frameworks & Libraries</h3>
+                    <div class="skill-items">
+                        <div class="skill-item"><i class="fab fa-react" style="color:#61DAFB"></i> React</div>
+                        <div class="skill-item"><i class="fab fa-node-js" style="color:#43853D"></i> Node.js</div>
+                        <div class="skill-item"><i class="fas fa-leaf" style="color:#6DB33F"></i> Spring Boot</div>
+                        <div class="skill-item"><i class="fas fa-wind" style="color:#38B2AC"></i> Tailwind CSS</div>
+                    </div>
+                </div>
+                <div class="skill-category reveal">
+                    <h3>🗄️ Databases</h3>
+                    <div class="skill-items">
+                        <div class="skill-item"><i class="fas fa-database" style="color:#4EA94B"></i> MongoDB</div>
+                        <div class="skill-item"><i class="fas fa-server" style="color:#005C84"></i> MySQL</div>
+                    </div>
+                </div>
+                <div class="skill-category reveal">
+                    <h3>🛠️ Tools</h3>
+                    <div class="skill-items">
+                        <div class="skill-item"><i class="fab fa-git-alt" style="color:#F05032"></i> Git</div>
+                        <div class="skill-item"><img src="https://img.icons8.com/material-outlined/24/ffffff/github.png"
+                                width="20"> GitHub</div>
+                        <div class="skill-item"><i class="fas fa-code" style="color:#007ACC"></i> VS Code</div>
+                        <div class="skill-item"><i class="fas fa-rocket" style="color:#FF6C37"></i> Postman</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects">
+            <h2 class="section-title">🚀 Featured Projects</h2>
+            <div class="grid grid-3">
+                <!-- Street Dog Care -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-paw fa-3x"></i></div>
+                    <h3>Street Dog Care Portal</h3>
+                    <p>Modern management system for animal shelters built with Next.js, Node.js, and MongoDB.</p>
+                    <div class="project-tags">
+                        <span class="tag">Next.js</span>
+                        <span class="tag">Node.js</span>
+                        <span class="tag">MongoDB</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/KawyaDissanayaka/Street-Dog-Care-Management-System"
+                            target="_blank">View Repository →</a>
+                    </div>
+                </div>
+
+                <!-- AI Medical Chatbot -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-brain fa-3x"></i></div>
+                    <h3>AI Medical Chatbot</h3>
+                    <p>Python-based symptom analysis assistant utilizing RESTful APIs and Gemini AI.</p>
+                    <div class="project-tags">
+                        <span class="tag">Python</span>
+                        <span class="tag">Gemini AI</span>
+                        <span class="tag">REST API</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot" target="_blank">View Repository
+                            →</a>
+                    </div>
+                </div>
+
+                <!-- Laundry Management -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-tshirt fa-3x"></i></div>
+                    <h3>Laundry Flow Ecosystem</h3>
+                    <p>Full-stack pickup and delivery system built using Spring Boot and React.</p>
+                    <div class="project-tags">
+                        <span class="tag">Spring Boot</span>
+                        <span class="tag">React</span>
+                        <span class="tag">MySQL</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"
+                            target="_blank">Frontend →</a>
+                        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-backend"
+                            target="_blank">Backend →</a>
+                    </div>
+                </div>
+
+                <!-- School Portal -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-school fa-3x"></i></div>
+                    <h3>Skills International School</h3>
+                    <p>Web platform integrated with SQL database for school management.</p>
+                    <div class="project-tags">
+                        <span class="tag">HTML5</span>
+                        <span class="tag">MySQL</span>
+                        <span class="tag">PHP</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/Kavindi52/Skills-International-School-webpage" target="_blank">View
+                            Repository →</a>
+                    </div>
+                </div>
+
+                <!-- E-Commerce -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-shopping-cart fa-3x"></i></div>
+                    <h3>E-Commerce Web Project</h3>
+                    <p>Full-stack platform with user authentication, product catalog, and shopping cart.</p>
+                    <div class="project-tags">
+                        <span class="tag">React</span>
+                        <span class="tag">Node.js</span>
+                        <span class="tag">SQL</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/DarshanaChinthaka/web-project-EC.git" target="_blank">View
+                            Repository →</a>
+                    </div>
+                </div>
+
+                <!-- Portfolio -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-user-circle fa-3x"></i></div>
+                    <h3>Kawya Portfolio</h3>
+                    <p>Personal developer portfolio showcasing projects, skills, and achievements.</p>
+                    <div class="project-tags">
+                        <span class="tag">React</span>
+                        <span class="tag">Tailwind</span>
+                        <span class="tag">Modern UI</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/KawyaDissanayaka/kawyaportfolio.git" target="_blank">View Repository
+                            →</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="stats">
+            <h2 class="section-title">📊 GitHub Activity</h2>
+            <div class="reveal">
+                <div class="glass-card" style="text-align: center; margin-bottom: 2rem;">
+                    <h3>GitHub Achievements</h3>
+                    <img src="https://github-profile-trophy.vercel.app/?username=KawyaDissanayaka&theme=algolia&no-frame=true&margin-w=4"
+                        alt="GitHub Trophies"
+                        style="max-width: 100%; filter: drop-shadow(0 0 10px rgba(0, 238, 255, 0.2));">
+                </div>
+            </div>
+
+            <div class="grid grid-2">
+                <div class="glass-card reveal">
+                    <h3>Overall Statistics</h3>
+                    <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+                        alt="GitHub Stats" style="width: 100%;">
+                </div>
+                <div class="glass-card reveal">
+                    <h3>Commit Streak</h3>
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight&hide_border=true"
+                        alt="Streak Stats" style="width: 100%;">
+                </div>
+            </div>
+
+            <div class="glass-card reveal" style="margin-top: 2rem; text-align: center;">
+                <h3>Contribution History</h3>
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaDissanayaka&theme=tokyo-night&hide_border=true&area=true"
+                    alt="Contribution Graph" style="width: 100%;">
+            </div>
+
+            <div class="grid grid-3" style="margin-top: 2rem;">
+                <div class="glass-card reveal" style="padding: 1rem;">
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawyaDissanayaka&theme=tokyonight"
+                        alt="Repos Per Language" style="width: 100%;">
+                </div>
+                <div class="glass-card reveal" style="padding: 1rem;">
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KawyaDissanayaka&theme=tokyonight"
+                        alt="Most Commit Language" style="width: 100%;">
+                </div>
+                <div class="glass-card reveal" style="padding: 1rem;">
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawyaDissanayaka&theme=tokyonight"
+                        alt="Account Stats" style="width: 100%;">
+                </div>
+            </div>
+
+            <div class="glass-card reveal" style="margin-top: 2rem; text-align: center;">
+                <h3>Commit Calendar</h3>
+                <img src="https://ghchart.rshah.org/409ba5/KawyaDissanayaka" alt="Commit Calendar"
+                    style="width: 100%; filter: hue-rotate(180deg) brightness(1.2);">
+            </div>
+        </section>
+
+        <section id="education">
+            <h2 class="section-title">🎓 Education & Certifications</h2>
+            <div class="grid grid-2">
+                <div class="glass-card reveal">
+                    <h3>🏫 Education</h3>
+                    <div class="edu-item">
+                        <h4>🎓 BSc (Hons) Computer Science</h4>
+                        <div class="place">📍 NSBM Green University</div>
+                        <div class="date">📅 2025 - Present</div>
+                    </div>
+                    <div class="edu-item">
+                        <h4>💻 Diploma in IT & English</h4>
+                        <div class="place">📍 ESOFT Metro Campus</div>
+                        <div class="date">📅 2023</div>
+                    </div>
+                    <div class="edu-item">
+                        <h4>📚 Advanced Level (Bio Science)</h4>
+                        <div class="place">📍 Kegalu Balika Vidyalaya</div>
+                        <div class="date">📅 2019 - 2021</div>
+                    </div>
+                </div>
+                <div class="glass-card reveal">
+                    <h3>🏆 Certifications</h3>
+                    <div class="edu-item">
+                        <h4>⚡ C++ Essentials (Basic-Advanced)</h4>
+                        <div class="place">🏢 Cisco Network Academy</div>
+                        <div class="date">✅ Certified</div>
+                    </div>
+                    <div class="edu-item">
+                        <h4>🗣️ English Language Certifications</h4>
+                        <div class="place">🏢 Britishway English Academy</div>
+                        <div class="date">✅ Certified</div>
+                    </div>
+                    <div class="edu-item">
+                        <h4>💼 Professional Communication</h4>
+                        <div class="place">🏢 ESOFT Metro Campus</div>
+                        <div class="date">✅ Certified</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2 class="section-title">🔗 Connect with Me</h2>
+            <div class="glass-card reveal" style="text-align: center;">
+                <h3>Let's Code Something Magical! ✨</h3>
+                <p>Feel free to reach out for collaborations or just a friendly hello.</p>
+                <div class="contact-links">
+                    <a href="mailto:kawyadissanayaka95@gmail.com" class="contact-link" title="Gmail"><i
+                            class="fas fa-envelope"></i></a>
+                    <a href="http://linkedin.com/in/kawya-dissanayaka-5a0ba1322" class="contact-link"
+                        title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/KawyaDissanayaka" class="contact-link" title="GitHub"><i
+                            class="fab fa-github"></i></a>
+                    <a href="https://www.facebook.com/share/1DMz2ukULF/?mibextid=wwXIfr" class="contact-link"
+                        title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                </div>
+
+                <div class="quote-container" style="margin-top: 3rem;">
+                    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+                        alt="Random Dev Quote" style="max-width: 100%; border-radius: 12px;">
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer
+        style="padding: 4rem 2rem; background: var(--bg-dark); border-top: 1px solid var(--glass-border); text-align: center;">
+        <div class="footer-quote">
+            <p>✨ "Code is poetry, and I'm the poet." ✨</p>
+            <p style="color: var(--text-dim); margin-top: 10px;">💖 Made with love and lots of coffee ☕ by Kawya
+                Dissanayaka</p>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth reveal animation on scroll
+        const observerOptions = {
+            threshold: 0.1
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('reveal');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+        // Magnetic hover effect (Subtle)
+        document.querySelectorAll('.btn, .contact-link, .glass-card').forEach(item => {
+            item.addEventListener('mousemove', (e) => {
+                const rect = item.getBoundingClientRect();
+                const x = e.clientX - rect.left - rect.width / 2;
+                const y = e.clientY - rect.top - rect.height / 2;
+                item.style.transform = `translate(${x * 0.1}px, ${y * 0.1}px) translateY(-5px)`;
+            });
+            item.addEventListener('mouseleave', () => {
+                item.style.transform = '';
+            });
+        });
+
+        // Navbar scroll effect
+        window.addEventListener('scroll', () => {
+            const nav = document.getElementById('navbar');
+            if (window.scrollY > 50) {
+                nav.style.padding = '0.8rem 5%';
+                nav.style.background = 'rgba(10, 10, 12, 0.95)';
+            } else {
+                nav.style.padding = '1.5rem 5%';
+                nav.style.background = 'rgba(10, 10, 12, 0.8)';
+            }
+        });
+    </script>
+</body>
+
+</html>
