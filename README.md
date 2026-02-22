@@ -169,6 +169,30 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <div align="center">
+        <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <h3>🏫 NSBM Student Hub</h3>
+        <p><i>Unified resource portal for university success.</i></p>
+        <img src="https://img.shields.io/badge/React-Portal-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/⭐_New-Release-cyan?style=flat-square" />
+        <br><br>
+        <a href="https://github.com/KawyaDissanayaka/nsbm-student-hub"><b>Explore Project →</b></a>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <div align="center">
+        <img src="https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <h3>📄 Digital CV / Resume</h3>
+        <p><i>Clean personal branding & showcase.</i></p>
+        <img src="https://img.shields.io/badge/HTML-Minimal-orange?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/Role-Branding-white?style=flat-square" />
+        <br><br>
+        <a href="https://github.com/KawyaDissanayaka/KawyaCV"><b>Explore Repo →</b></a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -179,6 +203,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 Academic Background</h3>
+      <img src="https://images.unsplash.com/photo-1541339907198-e08756ebafe3?q=80&w=400&h=200&fit=crop" width="100%" style="border-radius: 10px; border: 1px solid #00eeff;" />
+      <br><br>
       <p><b>BSc (Hons) Computer Science</b></p>
       <p>📍 NSBM Green University (2025 - Present)</p>
       <p><b>Diploma in IT & English</b></p>
@@ -188,6 +214,8 @@
     </td>
     <td width="50%" valign="top">
       <h3>🏆 Certifications</h3>
+      <img src="https://images.unsplash.com/photo-1496065187959-7f07b8353c55?q=80&w=400&h=200&fit=crop" width="100%" style="border-radius: 10px; border: 1px solid #00eeff;" />
+      <br><br>
       <p><b>⚡ C++ Essentials</b></p>
       <p>📍 Cisco Network Academy (Basic-Advanced)</p>
       <p><b>🗣️ English Language</b></p>
@@ -249,6 +277,3 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=120&section=footer"/>
 </p>
-
-
-
