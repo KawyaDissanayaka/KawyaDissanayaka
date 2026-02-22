@@ -208,7 +208,7 @@
   <tr>
     <td width="50%" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&text=🎓%20Academic%20Background&fontSize=20&animation=twinkling" width="100%" />
-      <img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=400&h=200&fit=crop" width="100%" style="border-radius: 10px; border: 1px solid #00eeff;" />
+      <img src="nsbm.jpg" />
       <br><br>
       <p><b>BSc (Hons) Computer Science</b></p>
       <p>📍 NSBM Green University (2025 - Present)</p>
