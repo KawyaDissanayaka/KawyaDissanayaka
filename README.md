@@ -52,7 +52,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00eeff&height=50&section=header&text=SKILLS%20INDEX&fontSize=25&fontColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=SKILLS%20INDEX&fontSize=25&animation=twinkling" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -77,7 +77,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00eeff&height=50&section=header&text=ACHIEVEMENTS&fontSize=25&fontColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=ACHIEVEMENTS&fontSize=25&animation=twinkling" width="100%"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KawyaDissanayaka&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,PullRequest,Issues,Followers,Stars,Reviews" alt="GitHub Achievements" width="100%"/>
@@ -94,16 +94,17 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00eeff&height=50&section=header&text=PROJECTS%20GALLERY&fontSize=25&fontColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=PROJECTS%20GALLERY&fontSize=25&animation=twinkling" width="100%"/>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1544568100-847a948585b9?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <h3>🐾 Street Dog Care</h3>
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🐾%20Street%20Dog%20Care&fontSize=22&animation=twinkling" width="100%" />
         <p><i>Full-stack shelter management system.</i></p>
-        <img src="https://img.shields.io/badge/Next.js-13+-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/Next.js-Fullstack-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/MongoDB-DB-47A248?style=flat-square&logo=mongodb" />
         <img src="https://img.shields.io/badge/🥇_Excellence-Award-gold?style=flat-square" />
         <br><br>
         <a href="https://github.com/KawyaDissanayaka/Street-Dog-Care-Management-System"><b>Explore Project →</b></a>
@@ -111,10 +112,11 @@
     </td>
     <td width="50%" align="center">
       <div align="center">
-        <img src="https://images.unsplash.com/photo-1576091160550-2173dad9946f?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <h3>🧠 AI Medical Chatbot</h3>
+        <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🧠%20AI%20Medical%20Chatbot&fontSize=22&animation=twinkling" width="100%" />
         <p><i>Health diagnostics via Gemini AI.</i></p>
-        <img src="https://img.shields.io/badge/Python-Gemini-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Gemini_AI-API-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/🥇_AI_Mastery-Award-purple?style=flat-square" />
         <br><br>
         <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot"><b>Explore Project →</b></a>
@@ -124,10 +126,11 @@
   <tr>
     <td width="50%" align="center">
       <div align="center">
-        <img src="https://images.unsplash.com/photo-1545173168-9f1947eebb9f?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <h3>🧺 Laundry Flow</h3>
-        <p><i>Pickup & delivery automation.</i></p>
-        <img src="https://img.shields.io/badge/Spring_Boot-Java-6DB33F?style=flat-square&logo=spring" />
+        <img src="https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🧺%20Laundry%20Flow&fontSize=22&animation=twinkling" width="100%" />
+        <p><i>Full-stack pickup & delivery automation.</i></p>
+        <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=spring" />
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/🥇_Service_Award-Award-green?style=flat-square" />
         <br><br>
         <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>Explore Project →</b></a>
@@ -135,10 +138,11 @@
     </td>
     <td width="50%" align="center">
       <div align="center">
-        <img src="https://images.unsplash.com/photo-1524178232363-1fb28f74b0cd?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <h3>🏫 School Portal</h3>
+        <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🏫%20School%20Portal&fontSize=22&animation=twinkling" width="100%" />
         <p><i>Infrastructure for education success.</i></p>
-        <img src="https://img.shields.io/badge/MySQL-SQL-005C84?style=flat-square&logo=mysql" />
+        <img src="https://img.shields.io/badge/C%23-Backend-239120?style=flat-square&logo=c-sharp" />
+        <img src="https://img.shields.io/badge/.NET-Core-512BD4?style=flat-square&logo=.net" />
         <img src="https://img.shields.io/badge/🥈_DB_Integration-Award-blue?style=flat-square" />
         <br><br>
         <a href="https://github.com/Kavindi52/Skills-International-School-webpage"><b>Explore Project →</b></a>
@@ -149,10 +153,11 @@
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <h3>🌐 E-Commerce Hub</h3>
-        <p><i>Secure marketplace architecture.</i></p>
-        <img src="https://img.shields.io/badge/JavaScript-React-F7DF1E?style=flat-square&logo=javascript" />
-        <img src="https://img.shields.io/badge/⭐_Featured-Project-orange?style=flat-square" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🌐%20E-Commerce%20Hub&fontSize=22&animation=twinkling" width="100%" />
+        <p><i>Web marketplace architecture.</i></p>
+        <img src="https://img.shields.io/badge/HTML5-CSS3-E34F26?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript" />
+        <img src="https://img.shields.io/badge/Bootstrap-v5-7952B3?style=flat-square&logo=bootstrap" />
         <br><br>
         <a href="https://github.com/DarshanaChinthaka/web-project-EC.git"><b>Explore Project →</b></a>
       </div>
@@ -160,7 +165,7 @@
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <h3>💻 Kawya Portfolio</h3>
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=💻%20Kawya%20Portfolio&fontSize=22&animation=twinkling" width="100%" />
         <p><i>Premium showcase dashboard.</i></p>
         <img src="https://img.shields.io/badge/Tailwind-UI-38B2AC?style=flat-square&logo=tailwind-css" />
         <img src="https://img.shields.io/badge/⭐_Featured-Project-magenta?style=flat-square" />
@@ -173,7 +178,7 @@
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <h3>🏫 NSBM Student Hub</h3>
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🏫%20NSBM%20Student%20Hub&fontSize=22&animation=twinkling" width="100%" />
         <p><i>Unified resource portal for university success.</i></p>
         <img src="https://img.shields.io/badge/React-Portal-61DAFB?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/⭐_New-Release-cyan?style=flat-square" />
@@ -202,8 +207,8 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 Academic Background</h3>
-      <img src="https://images.unsplash.com/photo-1541339907198-e08756ebafe3?q=80&w=400&h=200&fit=crop" width="100%" style="border-radius: 10px; border: 1px solid #00eeff;" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&text=🎓%20Academic%20Background&fontSize=20&animation=twinkling" width="100%" />
+      <img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=400&h=200&fit=crop" width="100%" style="border-radius: 10px; border: 1px solid #00eeff;" />
       <br><br>
       <p><b>BSc (Hons) Computer Science</b></p>
       <p>📍 NSBM Green University (2025 - Present)</p>
@@ -213,7 +218,7 @@
       <p>📍 Kegalu Balika Vidyalaya (2019-2021)</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏆 Certifications</h3>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&text=🏆%20Certifications&fontSize=20&animation=twinkling" width="100%" />
       <img src="https://images.unsplash.com/photo-1496065187959-7f07b8353c55?q=80&w=400&h=200&fit=crop" width="100%" style="border-radius: 10px; border: 1px solid #00eeff;" />
       <br><br>
       <p><b>⚡ C++ Essentials</b></p>
@@ -228,7 +233,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00eeff&height=50&section=header&text=GITHUB%20ANALYTICS&fontSize=25&fontColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=GITHUB%20ANALYTICS&fontSize=25&animation=twinkling" width="100%"/>
 
 <div align="center">
   <table border="0">
