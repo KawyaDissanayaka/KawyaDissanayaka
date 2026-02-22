@@ -19,25 +19,20 @@
 
 ## 🌷 About Me
 
-
-🎓 **Computer Science Undergraduate** at NSBM Green University  
-💡 **Full-stack Developer** passionate about creating impactful applications  
-🚀 Building scalable solutions with **Next.js, Node.js, and React**  
-🌱 Currently learning **Cloud Technologies & DevOps**  
-💬 Ask me about **JavaScript, Python, Java, and Web Development**  
-⚡ Fun fact: **I love turning coffee into code!** ☕→💻
+- 🎓 **Computer Science Undergraduate** at NSBM Green University
+- 💡 **Full-stack Developer** passionate about creating impactful applications
+- 🚀 Building scalable solutions with **Next.js, Node.js, and React**
+- 🌱 Currently learning **Cloud Technologies & DevOps**
+- 💬 Ask me about **JavaScript, Python, Java, and Web Development**
+- ⚡ Fun fact: **I love turning coffee into code!** ☕→💻
 
 ---
-
-
 
 ## 🎖️ GitHub Achievements & Badges
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KawyaDissanayaka&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,PullRequest,Issues,Followers,Stars,Reviews" alt="GitHub Achievements" width="100%"/>
 </p>
-
-<div align="center">
 
 ---
 
@@ -60,30 +55,12 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-### 📈 Overall Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-</p>
-
-
-
-### 📅 Contribution History
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaDissanayaka&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Contribution Graph" width="100%"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ---
@@ -204,18 +181,32 @@
     </p>
   </td>
 </tr>
-
 </table>
 
 ---
 
----
+## 📊 GitHub Ecosystem & Insights
 
-## 📌 Advanced Commit Insights
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawyaDissanayaka&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight&hide_border=true" alt="Streak Stats" /></td>
+    </tr>
+  </table>
+</div>
+
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawyaDissanayaka&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaDissanayaka&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Contribution Graph" width="100%"/>
 </p>
+
+### 📌 Summary Cards
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawyaDissanayaka&theme=tokyonight" width="32%" />
@@ -223,23 +214,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawyaDissanayaka&theme=tokyonight" width="32%" />
 </p>
 
----
-
-## 🔥 Contribution Metrics
+### 🔥 Real-time Metrics
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=KawyaDissanayaka&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" width="49%" />
 </p>
 
----
-
-## 📅 Yearly Commit Calendar
+### 📅 Commit Calendar
 
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/KawyaDissanayaka" alt="Commit Calendar" width="100%"/>
 </p>
 
+---
 
 ## 🧰 Technology Stack
 
@@ -371,3 +359,5 @@
   <b>✨ "Code is poetry, and I'm the poet." ✨</b><br>
   <i>💖 Made with love and lots of coffee ☕</i>
 </p>
+
+
