@@ -126,7 +126,7 @@
   <tr>
     <td width="50%" align="center">
       <div align="center">
-        <img src="https://images.unsplash.com/photo-1545173168-9f1947eebb9f?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <img src="laundry.jpg" width="100%" style="border-radius: 15px;" />
         <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🧺%20Laundry%20Flow&fontSize=22&animation=twinkling" width="100%" />
         <p><i>Full-stack pickup & delivery automation.</i></p>
         <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=spring" />
