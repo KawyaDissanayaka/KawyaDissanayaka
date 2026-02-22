@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Kawya%20Dissanayaka&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=320&section=header&text=Kawya%20Dissanayaka&fontSize=75&animation=twinkling&fontColor=ffffff" width="100%"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=40&pause=1000&color=00eeff&center=true&vCenter=true&width=1000&lines=Full-stack+Developer+💻;Next.js+Specialist+⚡;Cloud+Architecture+Enthusiast+☁️;Designing+the+Future+of+Web+✨" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=40&pause=1000&color=00eeff&center=true&vCenter=true&width=1000&lines=Full-stack+Developer+💻;Next.js+Specialist+⚡++(00eeff);Cloud+Architecture+Enthusiast+☁️++(a100ff);AI+Integration+Expert+🧠++(00eeff);Designing+the+Future+of+Web+✨++(a100ff)" alt="Typing Intro"/>
 </div>
 
 <p align="center">
@@ -45,14 +45,14 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-Expert-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Next.js-Expert-black?style=for-the-badge&logo=next.js&logoColor=00eeff" />
   <img src="https://img.shields.io/badge/FullStack-Mastery-00eeff?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud-Native-white?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud-Native-a100ff?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=SKILLS%20INDEX&fontSize=25&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00eeff&height=50&section=header&text=SKILLS%20INDEX&fontSize=25&animation=twinkling" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -77,7 +77,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=ACHIEVEMENTS&fontSize=25&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a100ff&height=50&section=header&text=ACHIEVEMENTS&fontSize=25&animation=twinkling" width="100%"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KawyaDissanayaka&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,PullRequest,Issues,Followers,Stars,Reviews" alt="GitHub Achievements" width="100%"/>
@@ -94,14 +94,14 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=PROJECTS%20GALLERY&fontSize=25&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00eeff&height=50&section=header&text=PROJECTS%20GALLERY&fontSize=25&animation=twinkling" width="100%"/>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1544568100-847a948585b9?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🐾%20Street%20Dog%20Care&fontSize=22&animation=twinkling" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=00eeff&height=45&text=🐾%20Street%20Dog%20Care&fontSize=22&animation=twinkling" width="100%" />
         <p><i>Full-stack shelter management system.</i></p>
         <img src="https://img.shields.io/badge/Next.js-Fullstack-black?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/MongoDB-DB-47A248?style=flat-square&logo=mongodb" />
@@ -113,7 +113,7 @@
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🧠%20AI%20Medical%20Chatbot&fontSize=22&animation=twinkling" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=a100ff&height=45&text=🧠%20AI%20Medical%20Chatbot&fontSize=22&animation=twinkling" width="100%" />
         <p><i>Health diagnostics via Gemini AI.</i></p>
         <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python" />
         <img src="https://img.shields.io/badge/Gemini_AI-API-blue?style=flat-square" />
@@ -126,7 +126,7 @@
   <tr>
     <td width="50%" align="center">
       <div align="center">
-        <img src="https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <img src="https://images.unsplash.com/photo-1545173168-9f1947eebb9f?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
         <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🧺%20Laundry%20Flow&fontSize=22&animation=twinkling" width="100%" />
         <p><i>Full-stack pickup & delivery automation.</i></p>
         <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=spring" />
