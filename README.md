@@ -62,15 +62,15 @@
     </td>
     <td width="25%" align="center">
       <b>Frameworks</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,spring,tailwind" />
+      <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,spring,tailwind,flutter,flask" />
     </td>
     <td width="25%" align="center">
       <b>Databases</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
     </td>
     <td width="25%" align="center">
       <b>Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,aws" />
     </td>
   </tr>
 </table>
@@ -196,6 +196,49 @@
         <br><br>
         <a href="https://github.com/KawyaDissanayaka/KawyaCV"><b>Explore Repo →</b></a>
       </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <div align="center">
+        <img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=00eeff&height=45&text=☁️%20Cloud%20Expense%20Tracer&fontSize=22&animation=twinkling" width="100%" />
+        <p><i>Cloud-based expense tracker with Flutter & Firebase.</i></p>
+        <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter" />
+        <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase" />
+        <img src="https://img.shields.io/badge/AWS-Storage-FF9900?style=flat-square&logo=amazon-aws" />
+        <br><br>
+        <a href="https://github.com/KawyaDissanayaka/Cloud-Expense-Tracer"><b>Explore Project →</b></a>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <div align="center">
+        <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=a100ff&height=45&text=🧠%20Smart%20Quiz%20System&fontSize=22&animation=twinkling" width="100%" />
+        <p><i>Interactive O/L ICT learning platform.</i></p>
+        <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
+        <img src="https://img.shields.io/badge/MySQL-DB-4479A1?style=flat-square&logo=mysql" />
+        <img src="https://img.shields.io/badge/Bootstrap-Design-7952B3?style=flat-square&logo=bootstrap" />
+        <br><br>
+        <a href="https://github.com/KawyaDissanayaka/Smart-Quiz-System"><b>Explore Project →</b></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <div align="center">
+        <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=🤖%20AI%20Talent%20Hub&fontSize=22&animation=twinkling" width="100%" />
+        <p><i>AI-powered resume parsing & ATS.</i></p>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-Backend-512BD4?style=flat-square&logo=.net" />
+        <img src="https://img.shields.io/badge/C%23-Language-239120?style=flat-square&logo=c-sharp" />
+        <img src="https://img.shields.io/badge/OpenAI-AI_Match-412991?style=flat-square&logo=openai" />
+        <br><br>
+        <a href="https://github.com/KawyaDissanayaka/AI-talent-Hub-System"><b>Explore Project →</b></a>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <!-- Balanced empty column -->
     </td>
   </tr>
 </table>
