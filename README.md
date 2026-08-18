@@ -234,7 +234,7 @@
         <img src="https://img.shields.io/badge/C%23-Language-239120?style=flat-square&logo=c-sharp" />
         <img src="https://img.shields.io/badge/OpenAI-AI_Match-412991?style=flat-square&logo=openai" />
         <br><br>
-        <a href="https://github.com/KawyaDissanayaka/AI-talent-Hub-System"><b>Explore Project →</b></a>
+        <a href="https://github.com/shanilka1/AI-Talent-Hub.git"><b>Explore Project →</b></a>
       </div>
     </td>
     <td width="50%" align="center">
