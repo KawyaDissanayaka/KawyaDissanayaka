@@ -390,3 +390,67 @@ h2.section-title::after {
 .reveal {
     animation: fadeIn 0.8s ease-out forwards;
 }
+
+/* Experience Section Styles */
+.exp-card {
+    padding: 2.5rem;
+}
+
+.exp-header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.exp-title-group {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+}
+
+.exp-icon-wrap {
+    width: 60px;
+    height: 60px;
+    border-radius: 14px;
+    background: rgba(0, 238, 255, 0.1);
+    border: 1px solid rgba(0, 238, 255, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.exp-badge-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(0, 238, 255, 0.08);
+    border: 1px solid rgba(0, 238, 255, 0.25);
+    color: var(--primary);
+    padding: 8px 18px;
+    border-radius: 50px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.exp-bullets {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    color: var(--text-dim);
+    font-size: 0.95rem;
+}
+
+.exp-bullets li {
+    display: flex;
+    align-items: flex-start;
+    line-height: 1.6;
+}
+
+.exp-bullets li i {
+    margin-top: 5px;
+    flex-shrink: 0;
+}

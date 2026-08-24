@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kawya Dissanayaka | Full-stack Developer</title>
+    <title>Kawya Dissanayaka | Full-stack Developer & Software Developer Intern</title>
     <meta name="description"
-        content="Portfolio of Kawya Dissanayaka - Computer Science Undergraduate & Full-stack Developer specialized in Next.js, React, and Node.js.">
+        content="Portfolio of Kawya Dissanayaka - Computer Science Undergraduate at NSBM & Software Developer Intern at SLT-Mobitel. Specialized in Java, Spring Boot, React, Next.js, and Cloud solutions.">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 </head>
 
 <body>
@@ -23,26 +23,30 @@
         <div class="logo">KAWYA.DEV</div>
         <div class="nav-links">
             <a href="#about">About</a>
+            <a href="#experience">Experience</a>
             <a href="#skills">Skills</a>
             <a href="#projects">Projects</a>
+            <a href="#stats">GitHub</a>
             <a href="#education">Education</a>
             <a href="#contact">Contact</a>
         </div>
     </nav>
 
     <main>
+        <!-- Hero Section -->
         <section class="hero" id="home">
             <h1 class="reveal">Hi, I'm <span class="name">Kawya</span></h1>
             <p class="reveal" style="animation-delay: 0.2s;">
-                Computer Science Undergraduate & Full-stack Developer passionate about building high-impact
-                applications.
+                Computer Science Undergraduate & <b>Software Developer Intern at SLT-Mobitel</b>. Passionate about building enterprise-grade applications, modern full-stack systems, and scalable cloud solutions.
             </p>
             <div class="cta-buttons reveal" style="animation-delay: 0.4s;">
                 <a href="#projects" class="btn btn-primary">View My Work</a>
+                <a href="#experience" class="btn btn-secondary">Experience</a>
                 <a href="#contact" class="btn btn-secondary">Get In Touch</a>
             </div>
         </section>
 
+        <!-- About Section -->
         <section id="about">
             <h2 class="section-title">🌷 About Me</h2>
             <div class="glass-card reveal">
@@ -50,10 +54,10 @@
                     <div class="about-content">
                         <ul>
                             <li>🎓 <b>Computer Science Undergraduate</b> at NSBM Green University</li>
-                            <li>💡 <b>Full-stack Developer</b> passionate about creating impactful applications</li>
-                            <li>🚀 Building scalable solutions with <b>Next.js, Node.js, and React</b></li>
-                            <li>🌱 Currently learning <b>Cloud Technologies & DevOps</b></li>
-                            <li>💬 Ask me about <b>JavaScript, Python, Java, and Web Development</b></li>
+                            <li>💼 <b>Software Developer Intern</b> at Sri Lanka Telecom PLC (SLT-Mobitel)</li>
+                            <li>🚀 Building scalable enterprise & web solutions with <b>Java, Spring Boot, Next.js, and React</b></li>
+                            <li>🌱 Actively exploring <b>Cloud Architecture, Microservices & Serverless DevOps</b></li>
+                            <li>💬 Ask me about <b>Full-Stack Development, RESTful APIs, Spring Boot, and Python</b></li>
                             <li>⚡ Fun fact: <b>I love turning coffee into code!</b> ☕→💻</li>
                         </ul>
                     </div>
@@ -61,10 +65,60 @@
             </div>
         </section>
 
+        <!-- Work Experience / Intern Section -->
+        <section id="experience">
+            <h2 class="section-title">💼 Work Experience</h2>
+            <div class="glass-card exp-card reveal">
+                <div class="exp-header-flex">
+                    <div class="exp-title-group">
+                        <div class="exp-icon-wrap">
+                            <i class="fas fa-network-wired fa-2x" style="color: var(--primary);"></i>
+                        </div>
+                        <div>
+                            <h3 style="font-size: 1.4rem; color: var(--primary); margin-bottom: 4px;">Software Developer Intern</h3>
+                            <div style="font-size: 1rem; color: var(--text-dim);">
+                                <i class="fas fa-building" style="color: var(--primary); margin-right: 6px;"></i> <b>Sri Lanka Telecom PLC (SLT-Mobitel)</b> &bull; <span>IT Division</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="exp-badge-pill">
+                        <i class="far fa-calendar-alt"></i> August 2026 - February 2027 &bull; 6 Months
+                    </div>
+                </div>
+
+                <div class="exp-description" style="margin-top: 1.5rem; color: var(--text-dim); line-height: 1.8;">
+                    <p>
+                        Contributing as a Software Developer Intern in the Information Technology (IT) department of Sri Lanka's leading telecommunications provider. Engaging in building robust, scalable enterprise software solutions, internal automation systems, and high-performance backend microservices.
+                    </p>
+                </div>
+
+                <div class="exp-highlights-list" style="margin-top: 1.2rem;">
+                    <ul class="exp-bullets">
+                        <li><i class="fas fa-check-circle" style="color: var(--primary); margin-right: 8px;"></i> Participating in the end-to-end software development life cycle (SDLC) of telecom IT applications.</li>
+                        <li><i class="fas fa-check-circle" style="color: var(--primary); margin-right: 8px;"></i> Designing and implementing secure RESTful APIs, core business logic, and database schemas.</li>
+                        <li><i class="fas fa-check-circle" style="color: var(--primary); margin-right: 8px;"></i> Collaborating with cross-functional engineering teams in an Agile / Scrum development workflow.</li>
+                        <li><i class="fas fa-check-circle" style="color: var(--primary); margin-right: 8px;"></i> Writing clean, maintainable code following industry best practices, code reviews, and testing standards.</li>
+                    </ul>
+                </div>
+
+                <div class="project-tags" style="margin-top: 1.5rem;">
+                    <span class="tag"><i class="fab fa-java"></i> Java</span>
+                    <span class="tag"><i class="fas fa-leaf"></i> Spring Boot</span>
+                    <span class="tag"><i class="fab fa-react"></i> React.js</span>
+                    <span class="tag"><i class="fab fa-python"></i> Python</span>
+                    <span class="tag"><i class="fas fa-database"></i> MySQL / SQL</span>
+                    <span class="tag"><i class="fas fa-network-wired"></i> RESTful APIs</span>
+                    <span class="tag"><i class="fab fa-git-alt"></i> Git</span>
+                    <span class="tag"><i class="fas fa-server"></i> Enterprise IT Solutions</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Technology Stack -->
         <section id="skills">
             <h2 class="section-title">🧰 Technology Stack</h2>
             <div class="grid grid-2">
-                <div class="skill-category reveal">
+                <div class="skill-category glass-card reveal">
                     <h3>💻 Languages</h3>
                     <div class="skill-items">
                         <div class="skill-item"><i class="fab fa-js" style="color:#F7DF1E"></i> JavaScript</div>
@@ -76,143 +130,237 @@
                         <div class="skill-item"><i class="fab fa-css3-alt" style="color:#1572B6"></i> CSS3</div>
                     </div>
                 </div>
-                <div class="skill-category reveal">
+                <div class="skill-category glass-card reveal">
                     <h3>🚀 Frameworks & Libraries</h3>
                     <div class="skill-items">
                         <div class="skill-item"><i class="fab fa-react" style="color:#61DAFB"></i> React</div>
-                        <div class="skill-item"><i class="fab fa-node-js" style="color:#43853D"></i> Node.js</div>
                         <div class="skill-item"><i class="fas fa-leaf" style="color:#6DB33F"></i> Spring Boot</div>
+                        <div class="skill-item"><i class="fab fa-node-js" style="color:#43853D"></i> Node.js</div>
+                        <div class="skill-item"><i class="fas fa-globe" style="color:#ffffff"></i> Next.js</div>
+                        <div class="skill-item"><i class="fas fa-mobile-alt" style="color:#02569B"></i> Flutter</div>
+                        <div class="skill-item"><i class="fas fa-server" style="color:#512BD4"></i> ASP.NET Core</div>
                         <div class="skill-item"><i class="fas fa-wind" style="color:#38B2AC"></i> Tailwind CSS</div>
                     </div>
                 </div>
-                <div class="skill-category reveal">
+                <div class="skill-category glass-card reveal">
                     <h3>🗄️ Databases</h3>
                     <div class="skill-items">
                         <div class="skill-item"><i class="fas fa-database" style="color:#4EA94B"></i> MongoDB</div>
                         <div class="skill-item"><i class="fas fa-server" style="color:#005C84"></i> MySQL</div>
+                        <div class="skill-item"><i class="fas fa-fire" style="color:#FFA611"></i> Firebase</div>
+                        <div class="skill-item"><i class="fas fa-database" style="color:#336791"></i> PostgreSQL</div>
                     </div>
                 </div>
-                <div class="skill-category reveal">
-                    <h3>🛠️ Tools</h3>
+                <div class="skill-category glass-card reveal">
+                    <h3>🛠️ Tools & Cloud</h3>
                     <div class="skill-items">
                         <div class="skill-item"><i class="fab fa-git-alt" style="color:#F05032"></i> Git</div>
-                        <div class="skill-item"><img src="https://img.icons8.com/material-outlined/24/ffffff/github.png"
-                                width="20"> GitHub</div>
+                        <div class="skill-item"><i class="fab fa-github" style="color:#ffffff"></i> GitHub</div>
+                        <div class="skill-item"><i class="fab fa-aws" style="color:#FF9900"></i> AWS</div>
                         <div class="skill-item"><i class="fas fa-code" style="color:#007ACC"></i> VS Code</div>
                         <div class="skill-item"><i class="fas fa-rocket" style="color:#FF6C37"></i> Postman</div>
+                        <div class="skill-item"><i class="fas fa-bolt" style="color:#646CFF"></i> Vite</div>
                     </div>
                 </div>
             </div>
         </section>
 
+        <!-- Featured Projects Section -->
         <section id="projects">
             <h2 class="section-title">🚀 Featured Projects</h2>
             <div class="grid grid-3">
-                <!-- Street Dog Care -->
+                <!-- Project 1: AgroSense -->
                 <div class="glass-card project-card reveal">
-                    <div class="img-placeholder"><i class="fas fa-paw fa-3x"></i></div>
+                    <div class="img-placeholder"><i class="fas fa-seedling fa-3x" style="color: #4CAF50;"></i></div>
+                    <h3>AgroSense - IoT Smart Agriculture</h3>
+                    <p>Full-stack closed-loop smart agriculture platform with ESP32 hardware, Flask REST API, MySQL database, and interactive React dashboard for automated irrigation.</p>
+                    <div class="project-tags">
+                        <span class="tag">ESP32 / IoT</span>
+                        <span class="tag">React</span>
+                        <span class="tag">Flask</span>
+                        <span class="tag">MySQL</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://agro-sense-rho.vercel.app" target="_blank"><i class="fas fa-external-link-alt"></i> Live Demo</a>
+                        <a href="https://github.com/KawyaDissanayaka/AgroSense.git" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    </div>
+                </div>
+
+                <!-- Project 2: Street Dog Care -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-paw fa-3x" style="color: #00eeff;"></i></div>
                     <h3>Street Dog Care Portal</h3>
-                    <p>Modern management system for animal shelters built with Next.js, Node.js, and MongoDB.</p>
+                    <p>Modern mission-driven shelter and rescue management system tracking vaccinations, adoptions, and daily care routines.</p>
                     <div class="project-tags">
                         <span class="tag">Next.js</span>
                         <span class="tag">Node.js</span>
                         <span class="tag">MongoDB</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://github.com/KawyaDissanayaka/Street-Dog-Care-Management-System"
-                            target="_blank">View Repository →</a>
+                        <a href="https://github.com/KawyaDissanayaka/Street-Dog-Care-Management-System" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                     </div>
                 </div>
 
-                <!-- AI Medical Chatbot -->
+                <!-- Project 3: Omni-Channel Agent -->
                 <div class="glass-card project-card reveal">
-                    <div class="img-placeholder"><i class="fas fa-brain fa-3x"></i></div>
+                    <div class="img-placeholder"><i class="fas fa-comments fa-3x" style="color: #a100ff;"></i></div>
+                    <h3>Omni-Channel Support Agent</h3>
+                    <p>Unified customer interaction and multi-channel communication platform built with React and Vite for agile client messaging.</p>
+                    <div class="project-tags">
+                        <span class="tag">React</span>
+                        <span class="tag">Vite</span>
+                        <span class="tag">REST APIs</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/KawyaDissanayaka/Omni-Channel-Agent.git" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    </div>
+                </div>
+
+                <!-- Project 4: AI Medical Chatbot -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-brain fa-3x" style="color: #FF5722;"></i></div>
                     <h3>AI Medical Chatbot</h3>
-                    <p>Python-based symptom analysis assistant utilizing RESTful APIs and Gemini AI.</p>
+                    <p>Python-based symptom analysis assistant utilizing RESTful APIs and Gemini AI for intelligent, conversational health diagnostics.</p>
                     <div class="project-tags">
                         <span class="tag">Python</span>
                         <span class="tag">Gemini AI</span>
                         <span class="tag">REST API</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot" target="_blank">View Repository
-                            →</a>
+                        <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                     </div>
                 </div>
 
-                <!-- Laundry Management -->
+                <!-- Project 5: Laundry Management -->
                 <div class="glass-card project-card reveal">
-                    <div class="img-placeholder"><i class="fas fa-tshirt fa-3x"></i></div>
+                    <div class="img-placeholder"><i class="fas fa-tshirt fa-3x" style="color: #00BCD4;"></i></div>
                     <h3>Laundry Flow Ecosystem</h3>
-                    <p>Full-stack pickup and delivery system built using Spring Boot and React.</p>
+                    <p>Full-stack pickup and delivery system built with Spring Boot backend and React frontend with real-time order tracking.</p>
                     <div class="project-tags">
                         <span class="tag">Spring Boot</span>
                         <span class="tag">React</span>
                         <span class="tag">MySQL</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"
-                            target="_blank">Frontend →</a>
-                        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-backend"
-                            target="_blank">Backend →</a>
+                        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend" target="_blank">Frontend →</a>
+                        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-backend" target="_blank">Backend →</a>
                     </div>
                 </div>
 
-                <!-- School Portal -->
+                <!-- Project 6: Student Management App -->
                 <div class="glass-card project-card reveal">
-                    <div class="img-placeholder"><i class="fas fa-school fa-3x"></i></div>
-                    <h3>Skills International School</h3>
-                    <p>Web platform integrated with SQL database for school management.</p>
+                    <div class="img-placeholder"><i class="fas fa-user-graduate fa-3x" style="color: #E91E63;"></i></div>
+                    <h3>Student Management App</h3>
+                    <p>Cross-platform mobile application developed with Flutter and Dart for student profiles, academic records, and enrollment.</p>
                     <div class="project-tags">
-                        <span class="tag">HTML5</span>
-                        <span class="tag">MySQL</span>
-                        <span class="tag">PHP</span>
+                        <span class="tag">Flutter</span>
+                        <span class="tag">Dart</span>
+                        <span class="tag">Firebase</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://github.com/Kavindi52/Skills-International-School-webpage" target="_blank">View
-                            Repository →</a>
+                        <a href="https://github.com/KawyaDissanayaka/Student-Management-App.git" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                     </div>
                 </div>
 
-                <!-- E-Commerce -->
+                <!-- Project 7: AI Talent Hub -->
                 <div class="glass-card project-card reveal">
-                    <div class="img-placeholder"><i class="fas fa-shopping-cart fa-3x"></i></div>
-                    <h3>E-Commerce Web Project</h3>
-                    <p>Full-stack platform with user authentication, product catalog, and shopping cart.</p>
+                    <div class="img-placeholder"><i class="fas fa-robot fa-3x" style="color: #9C27B0;"></i></div>
+                    <h3>AI Talent Hub</h3>
+                    <p>AI-driven resume parsing and semantic job candidate matching engine built with ASP.NET Core and OpenAI integration.</p>
+                    <div class="project-tags">
+                        <span class="tag">ASP.NET Core</span>
+                        <span class="tag">C#</span>
+                        <span class="tag">OpenAI</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/KawyaDissanayaka/AI-talent-Hub-System.git" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    </div>
+                </div>
+
+                <!-- Project 8: Smart Quiz System -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-lightbulb fa-3x" style="color: #FFC107;"></i></div>
+                    <h3>Smart Quiz System (O/L ICT)</h3>
+                    <p>Interactive web-based learning and testing portal for O/L ICT students with instant evaluation, scoring, and analytics.</p>
+                    <div class="project-tags">
+                        <span class="tag">Python</span>
+                        <span class="tag">Flask</span>
+                        <span class="tag">MySQL</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/KawyaDissanayaka/Smart-Quiz-System.git" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    </div>
+                </div>
+
+                <!-- Project 9: Cloud Expense Tracer -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-receipt fa-3x" style="color: #03A9F4;"></i></div>
+                    <h3>Cloud Expense Tracer</h3>
+                    <p>Cloud-based personal finance mobile app with receipt upload functionality, custom budgeting, and interactive spending charts.</p>
+                    <div class="project-tags">
+                        <span class="tag">Flutter</span>
+                        <span class="tag">Firebase</span>
+                        <span class="tag">AWS</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/KawyaDissanayaka/Cloud-Expense-Tracer" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    </div>
+                </div>
+
+                <!-- Project 10: School Portal -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-school fa-3x" style="color: #8BC34A;"></i></div>
+                    <h3>Skills International School</h3>
+                    <p>Comprehensive school management web platform integrated with relational databases for student and administrative tracking.</p>
+                    <div class="project-tags">
+                        <span class="tag">C#</span>
+                        <span class="tag">.NET Core</span>
+                        <span class="tag">MySQL</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://github.com/Kavindi52/Skills-International-School-webpage" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    </div>
+                </div>
+
+                <!-- Project 11: ShopNest E-Commerce -->
+                <div class="glass-card project-card reveal">
+                    <div class="img-placeholder"><i class="fas fa-shopping-cart fa-3x" style="color: #FF9800;"></i></div>
+                    <h3>ShopNest E-Commerce</h3>
+                    <p>Full-stack web marketplace with product catalogue management, cart workflows, and integrated SQL database.</p>
                     <div class="project-tags">
                         <span class="tag">React</span>
                         <span class="tag">Node.js</span>
                         <span class="tag">SQL</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://github.com/DarshanaChinthaka/web-project-EC.git" target="_blank">View
-                            Repository →</a>
+                        <a href="https://github.com/DarshanaChinthaka/web-project-EC.git" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                     </div>
                 </div>
 
-                <!-- Portfolio -->
+                <!-- Project 12: Kawya Portfolio -->
                 <div class="glass-card project-card reveal">
-                    <div class="img-placeholder"><i class="fas fa-user-circle fa-3x"></i></div>
+                    <div class="img-placeholder"><i class="fas fa-laptop-code fa-3x" style="color: #00eeff;"></i></div>
                     <h3>Kawya Portfolio</h3>
-                    <p>Personal developer portfolio showcasing projects, skills, and achievements.</p>
+                    <p>Modern developer portfolio showcasing projects, live GitHub activity, work experience, and tech credentials.</p>
                     <div class="project-tags">
                         <span class="tag">React</span>
                         <span class="tag">Tailwind</span>
-                        <span class="tag">Modern UI</span>
+                        <span class="tag">Glassmorphism</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://github.com/KawyaDissanayaka/kawyaportfolio.git" target="_blank">View Repository
-                            →</a>
+                        <a href="https://kawyadissanayaka.github.io/MY-portfolio/" target="_blank"><i class="fas fa-external-link-alt"></i> Live Site</a>
+                        <a href="https://github.com/KawyaDissanayaka/MY-portfolio" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                     </div>
                 </div>
             </div>
         </section>
 
+        <!-- GitHub Activity & Analytics -->
         <section id="stats">
             <h2 class="section-title">📊 GitHub Activity</h2>
             <div class="reveal">
                 <div class="glass-card" style="text-align: center; margin-bottom: 2rem;">
-                    <h3>GitHub Achievements</h3>
+                    <h3 style="margin-bottom: 1rem; color: var(--primary);">GitHub Achievements</h3>
                     <img src="https://github-profile-trophy.vercel.app/?username=KawyaDissanayaka&theme=algolia&no-frame=true&margin-w=4"
                         alt="GitHub Trophies"
                         style="max-width: 100%; filter: drop-shadow(0 0 10px rgba(0, 238, 255, 0.2));">
@@ -221,19 +369,19 @@
 
             <div class="grid grid-2">
                 <div class="glass-card reveal">
-                    <h3>Overall Statistics</h3>
+                    <h3 style="margin-bottom: 1rem; color: var(--primary);">Overall Statistics</h3>
                     <img src="https://github-readme-stats.vercel.app/api?username=KawyaDissanayaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
                         alt="GitHub Stats" style="width: 100%;">
                 </div>
                 <div class="glass-card reveal">
-                    <h3>Commit Streak</h3>
+                    <h3 style="margin-bottom: 1rem; color: var(--primary);">Commit Streak</h3>
                     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawyaDissanayaka&theme=tokyonight&hide_border=true"
                         alt="Streak Stats" style="width: 100%;">
                 </div>
             </div>
 
             <div class="glass-card reveal" style="margin-top: 2rem; text-align: center;">
-                <h3>Contribution History</h3>
+                <h3 style="margin-bottom: 1rem; color: var(--primary);">Contribution History</h3>
                 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawyaDissanayaka&theme=tokyo-night&hide_border=true&area=true"
                     alt="Contribution Graph" style="width: 100%;">
             </div>
@@ -254,17 +402,18 @@
             </div>
 
             <div class="glass-card reveal" style="margin-top: 2rem; text-align: center;">
-                <h3>Commit Calendar</h3>
+                <h3 style="margin-bottom: 1rem; color: var(--primary);">Commit Calendar</h3>
                 <img src="https://ghchart.rshah.org/409ba5/KawyaDissanayaka" alt="Commit Calendar"
                     style="width: 100%; filter: hue-rotate(180deg) brightness(1.2);">
             </div>
         </section>
 
+        <!-- Education & Certifications -->
         <section id="education">
             <h2 class="section-title">🎓 Education & Certifications</h2>
             <div class="grid grid-2">
                 <div class="glass-card reveal">
-                    <h3>🏫 Education</h3>
+                    <h3 style="color: var(--secondary); margin-bottom: 1.5rem;">🏫 Education</h3>
                     <div class="edu-item">
                         <h4>🎓 BSc (Hons) Computer Science</h4>
                         <div class="place">📍 NSBM Green University</div>
@@ -282,14 +431,14 @@
                     </div>
                 </div>
                 <div class="glass-card reveal">
-                    <h3>🏆 Certifications</h3>
+                    <h3 style="color: var(--secondary); margin-bottom: 1.5rem;">🏆 Certifications</h3>
                     <div class="edu-item">
                         <h4>⚡ C++ Essentials (Basic-Advanced)</h4>
                         <div class="place">🏢 Cisco Network Academy</div>
                         <div class="date">✅ Certified</div>
                     </div>
                     <div class="edu-item">
-                        <h4>🗣️ English Language Certifications</h4>
+                        <h4>🗣️ English Language Certification</h4>
                         <div class="place">🏢 Britishway English Academy</div>
                         <div class="date">✅ Certified</div>
                     </div>
@@ -302,20 +451,21 @@
             </div>
         </section>
 
+        <!-- Contact Section -->
         <section id="contact">
             <h2 class="section-title">🔗 Connect with Me</h2>
             <div class="glass-card reveal" style="text-align: center;">
                 <h3>Let's Code Something Magical! ✨</h3>
-                <p>Feel free to reach out for collaborations or just a friendly hello.</p>
+                <p style="color: var(--text-dim); margin-top: 10px;">Feel free to reach out for collaborations or opportunities.</p>
                 <div class="contact-links">
                     <a href="mailto:kawyadissanayaka95@gmail.com" class="contact-link" title="Gmail"><i
                             class="fas fa-envelope"></i></a>
-                    <a href="http://linkedin.com/in/kawya-dissanayaka-5a0ba1322" class="contact-link"
-                        title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="https://github.com/KawyaDissanayaka" class="contact-link" title="GitHub"><i
+                    <a href="https://www.linkedin.com/in/kawya-dissanayaka-5a0ba1322/" class="contact-link"
+                        title="LinkedIn" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/KawyaDissanayaka" class="contact-link" title="GitHub" target="_blank"><i
                             class="fab fa-github"></i></a>
-                    <a href="https://www.facebook.com/share/1DMz2ukULF/?mibextid=wwXIfr" class="contact-link"
-                        title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://kawyadissanayaka.github.io/MY-portfolio/" class="contact-link" title="Live Portfolio" target="_blank"><i
+                            class="fas fa-globe"></i></a>
                 </div>
 
                 <div class="quote-container" style="margin-top: 3rem;">
@@ -330,8 +480,7 @@
         style="padding: 4rem 2rem; background: var(--bg-dark); border-top: 1px solid var(--glass-border); text-align: center;">
         <div class="footer-quote">
             <p>✨ "Code is poetry, and I'm the poet." ✨</p>
-            <p style="color: var(--text-dim); margin-top: 10px;">💖 Made with love and lots of coffee ☕ by Kawya
-                Dissanayaka</p>
+            <p style="color: var(--text-dim); margin-top: 10px;">💖 Made with love and lots of coffee ☕ by Kawya Dissanayaka</p>
         </div>
     </footer>
 
