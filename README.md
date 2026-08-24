@@ -142,14 +142,15 @@
       <div align="center">
         <img src="https://images.unsplash.com/photo-1586771107445-d3ca888129ff?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
         <img src="https://capsule-render.vercel.app/api?type=soft&color=00eeff&height=45&text=🌱%20AgroSense%20IoT&fontSize=22&animation=twinkling" width="100%" />
-        <p><i>Full-stack closed-loop smart agriculture & automated irrigation platform.</i></p>
-        <img src="https://img.shields.io/badge/ESP32-IoT-red?style=flat-square" />
+        <p><i>Full-stack closed-loop smart agriculture & automated irrigation platform with real-time telemetry.</i></p>
+        <img src="https://img.shields.io/badge/ESP32-IoT_Hardware-red?style=flat-square" />
         <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
         <img src="https://img.shields.io/badge/MySQL-DB-4479A1?style=flat-square&logo=mysql" />
         <br><br>
-        <a href="https://agro-sense-rho.vercel.app"><b>Live Demo ↗</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/KawyaDissanayaka/AgroSense.git"><b>Explore Repo →</b></a>
+        <a href="https://lnkd.in/gigXAixb" target="_blank"><b>🌐 Live Web Dashboard ↗</b></a> &nbsp;|&nbsp;
+        <a href="https://lnkd.in/gxmjXAUF" target="_blank"><b>⚡ Hardware Simulation ↗</b></a> &nbsp;|&nbsp;
+        <a href="https://lnkd.in/gVQbhmqy" target="_blank"><b>💻 GitHub →</b></a>
       </div>
     </td>
     <td width="50%" align="center">
@@ -212,15 +213,16 @@
       <div align="center">
         <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
         <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=📱%20Student%20Management%20App&fontSize=22&animation=twinkling" width="100%" />
-        <p><i>Cross-platform mobile app for student profiles, academic records & course enrollment.</i></p>
+        <p><i>Cross-platform PWA mobile app for student profiles, academic records & course enrollment.</i></p>
         <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter" />
         <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=flat-square&logo=dart" />
         <img src="https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?style=flat-square&logo=firebase" />
-        <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-brightgreen?style=flat-square&logo=android" />
+        <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-brightgreen?style=flat-square&logo=android" />
         <br>
-        <img src="https://img.shields.io/badge/⬇️_Download-Source_Code-E91E63?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/🌐_Live_PWA-Web_App-E91E63?style=for-the-badge&logo=firebase&logoColor=white" />
         <br><br>
-        <a href="https://github.com/KawyaDissanayaka/Student-Management-App" target="_blank"><b>📂 Explore Repo →</b></a> &nbsp;|&nbsp;
+        <a href="https://student-management-syste-66ac2.web.app" target="_blank"><b>🌐 Live Web App (PWA) ↗</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/KawyaDissanayaka/Student-Management-App" target="_blank"><b>💻 GitHub →</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/KawyaDissanayaka/Student-Management-App/archive/refs/heads/main.zip"><b>⬇️ Download ZIP</b></a>
       </div>
     </td>
