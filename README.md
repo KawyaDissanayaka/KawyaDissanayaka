@@ -211,13 +211,16 @@
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=📱%20Student%20Management&fontSize=22&animation=twinkling" width="100%" />
-        <p><i>Cross-platform mobile app for academic records and enrollment.</i></p>
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=45&text=📱%20Student%20Management%20App&fontSize=22&animation=twinkling" width="100%" />
+        <p><i>Cross-platform mobile app for student profiles, academic records & course enrollment.</i></p>
         <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter" />
         <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=flat-square&logo=dart" />
-        <img src="https://img.shields.io/badge/Firebase-Realtime-FFCA28?style=flat-square&logo=firebase" />
+        <img src="https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?style=flat-square&logo=firebase" />
+        <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-brightgreen?style=flat-square&logo=android" />
+        <br>
+        <img src="https://img.shields.io/badge/⬇️_Download-Source_Code-E91E63?style=for-the-badge&logo=github&logoColor=white" />
         <br><br>
-        <a href="https://github.com/KawyaDissanayaka/Student-Management-App.git"><b>Explore Repo →</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/KawyaDissanayaka/Student-Management-App" target="_blank"><b>📂 Explore Repo →</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/KawyaDissanayaka/Student-Management-App/archive/refs/heads/main.zip"><b>⬇️ Download ZIP</b></a>
       </div>
     </td>
