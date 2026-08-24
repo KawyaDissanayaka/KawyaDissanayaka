@@ -217,7 +217,8 @@
         <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=flat-square&logo=dart" />
         <img src="https://img.shields.io/badge/Firebase-Realtime-FFCA28?style=flat-square&logo=firebase" />
         <br><br>
-        <a href="https://github.com/KawyaDissanayaka/Student-Management-App.git"><b>Explore Repo →</b></a>
+        <a href="https://github.com/KawyaDissanayaka/Student-Management-App.git"><b>Explore Repo →</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/KawyaDissanayaka/Student-Management-App/archive/refs/heads/main.zip"><b>⬇️ Download ZIP</b></a>
       </div>
     </td>
   </tr>
