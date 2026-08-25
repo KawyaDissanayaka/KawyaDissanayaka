@@ -136,8 +136,22 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00eeff&height=50&section=header&text=PROJECTS%20GALLERY&fontSize=25&animation=twinkling" width="100%"/>
 
 <table width="100%">
-  <!-- Row 1: AgroSense & Street Dog Care -->
+  <!-- Row 1: CryptoShield & AgroSense -->
   <tr>
+    <td width="50%" align="center">
+      <div align="center">
+        <img src="https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=00eeff&height=45&text=🛡️%20CryptoShield&fontSize=22&animation=twinkling" width="100%" />
+        <p><i>Next-gen Web3 security & risk detection platform with a 4-Layer ML & Heuristic Pipeline.</i></p>
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-DB-4169E1?style=flat-square&logo=postgresql" />
+        <img src="https://img.shields.io/badge/ML_Engine-Isolation_Forest-FF6F00?style=flat-square&logo=scikitlearn" />
+        <br><br>
+        <a href="https://crypto-shield-ui.vercel.app/" target="_blank"><b>🌐 Live Web App ↗</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/KawyaDissanayaka/CryptoShield" target="_blank"><b>💻 GitHub →</b></a>
+      </div>
+    </td>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1586771107445-d3ca888129ff?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -153,6 +167,10 @@
         <a href="https://lnkd.in/gVQbhmqy" target="_blank"><b>💻 GitHub →</b></a>
       </div>
     </td>
+  </tr>
+
+  <!-- Row 2: Street Dog Care & Omni-Channel Agent -->
+  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1544568100-847a948585b9?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -165,10 +183,6 @@
         <a href="https://github.com/KawyaDissanayaka/Street-Dog-Care-Management-System"><b>Explore Repo →</b></a>
       </div>
     </td>
-  </tr>
-
-  <!-- Row 2: Omni-Channel Agent & AI Medical Chatbot -->
-  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -181,6 +195,10 @@
         <a href="https://github.com/KawyaDissanayaka/Omni-Channel-Agent.git"><b>Explore Repo →</b></a>
       </div>
     </td>
+  </tr>
+
+  <!-- Row 3: AI Medical Chatbot & Laundry Management -->
+  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -193,10 +211,6 @@
         <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot"><b>Explore Repo →</b></a>
       </div>
     </td>
-  </tr>
-
-  <!-- Row 3: Laundry Management & Student Management App -->
-  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="laundry.jpg" width="100%" style="border-radius: 15px;" />
@@ -209,6 +223,10 @@
         <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>Explore Frontend →</b></a>
       </div>
     </td>
+  </tr>
+
+  <!-- Row 4: Student Management App & AI Talent Hub -->
+  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -226,10 +244,6 @@
         <a href="https://github.com/KawyaDissanayaka/Student-Management-App/archive/refs/heads/main.zip"><b>⬇️ Download ZIP</b></a>
       </div>
     </td>
-  </tr>
-
-  <!-- Row 4: AI Talent Hub & Smart Quiz System -->
-  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -242,6 +256,10 @@
         <a href="https://github.com/KawyaDissanayaka/AI-talent-Hub-System.git"><b>Explore Repo →</b></a>
       </div>
     </td>
+  </tr>
+
+  <!-- Row 5: Smart Quiz System & Cloud Expense Tracer -->
+  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -254,10 +272,6 @@
         <a href="https://github.com/KawyaDissanayaka/Smart-Quiz-System.git"><b>Explore Repo →</b></a>
       </div>
     </td>
-  </tr>
-
-  <!-- Row 5: Cloud Expense Tracer & Skills International School -->
-  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -270,6 +284,10 @@
         <a href="https://github.com/KawyaDissanayaka/Cloud-Expense-Tracer"><b>Explore Repo →</b></a>
       </div>
     </td>
+  </tr>
+
+  <!-- Row 6: Skills International & ShopNest E-Commerce -->
+  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -282,10 +300,6 @@
         <a href="https://github.com/Kavindi52/Skills-International-School-webpage"><b>Explore Repo →</b></a>
       </div>
     </td>
-  </tr>
-
-  <!-- Row 6: ShopNest E-commerce & Kawya Portfolio -->
-  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -298,6 +312,10 @@
         <a href="https://github.com/DarshanaChinthaka/web-project-EC.git"><b>Explore Repo →</b></a>
       </div>
     </td>
+  </tr>
+
+  <!-- Row 7: Kawya Portfolio -->
+  <tr>
     <td width="50%" align="center">
       <div align="center">
         <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=600&h=300&fit=crop" width="100%" style="border-radius: 15px;" />
@@ -309,6 +327,8 @@
         <a href="https://kawyadissanayaka.github.io/MY-portfolio/"><b>Live Site ↗</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/KawyaDissanayaka/MY-portfolio"><b>Explore Repo →</b></a>
       </div>
+    </td>
+    <td width="50%" align="center">
     </td>
   </tr>
 </table>
